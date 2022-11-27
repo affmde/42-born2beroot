@@ -315,7 +315,7 @@ Check if the user was successfuly added to the group.
 
 # cron
 
-## Setting Up a cron Job
+## Setting up a cron Job
 Configure cron as root via sudo crontab -u root -e.
 
     sudo crontab -u root -e
@@ -358,3 +358,10 @@ You need to write it on store in /usr/local/bin folder
 + [https://wiki.ubuntu.com/AppArmor](https://wiki.ubuntu.com/AppArmor)
 + [https://www.tecmint.com/difference-between-apt-and-aptitude/](https://www.tecmint.com/difference-between-apt-and-aptitude/)
 + [https://www.ucl.ac.uk/isd/what-ssh-and-how-do-i-use-it](https://www.ucl.ac.uk/isd/what-ssh-and-how-do-i-use-it)
+
+<br>
+
+## Related Projects
+
++ [42-get_next_line](https://github.com/affmde/42-get_next_line)
++ [42-ft_printf](https://github.com/affmde/42-ft_printf)
